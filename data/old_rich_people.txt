@@ -1,0 +1,96 @@
+Rank: 5
+Name: Warren Buffett
+Age: 91
+Net worth: $118000 billion
+Category: Finance & Investments
+Country: United States
+Organization: Berkshire Hathaway
+Self-made: Yes
+Gender: M
+Birth date: 1930-08-30
+Title: CEO
+
+Rank: 13
+Name: Carlos Slim Helu & family
+Age: 82
+Net worth: $81200 billion
+Category: Telecom
+Country: Mexico
+Organization: América Móvil
+Self-made: Yes
+Gender: M
+Birth date: 1940-01-28
+Title: Honorary Chairman
+
+Rank: 21
+Name: Charles Koch
+Age: 86
+Net worth: $60000 billion
+Category: Diversified
+Country: United States
+Organization: Koch Industries
+Self-made: No
+Gender: M
+Birth date: 1935-11-01
+Title: CEO
+
+Rank: 23
+Name: Amancio Ortega
+Age: 86
+Net worth: $59600 billion
+Category: Fashion & Retail
+Country: Spain
+Organization: 
+Self-made: Yes
+Gender: M
+Birth date: 1936-03-28
+Title: 
+
+Rank: 27
+Name: Phil Knight & family
+Age: 84
+Net worth: $47300 billion
+Category: Fashion & Retail
+Country: United States
+Organization: Nike
+Self-made: Yes
+Gender: M
+Birth date: 1938-02-24
+Title: Chairman
+
+Rank: 28
+Name: Dieter Schwarz
+Age: 82
+Net worth: $47100 billion
+Category: Fashion & Retail
+Country: Germany
+Organization: 
+Self-made: No
+Gender: M
+Birth date: 1939-09-24
+Title: 
+
+Rank: 32
+Name: François Pinault & family
+Age: 85
+Net worth: $40400 billion
+Category: Fashion & Retail
+Country: France
+Organization: 
+Self-made: Yes
+Gender: M
+Birth date: 1936-08-21
+Title: 
+
+Rank: 33
+Name: Klaus-Michael Kuehne
+Age: 84
+Net worth: $37300 billion
+Category: Logistics
+Country: Germany
+Organization: 
+Self-made: No
+Gender: M
+Birth date: 1937-06-02
+Title: 
+
